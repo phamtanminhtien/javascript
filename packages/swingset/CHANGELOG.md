@@ -1,5 +1,12 @@
 # @clerk/swingset
 
+## 0.0.80
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @clerk/nextjs@7.10.8
+
 ## 0.0.79
 
 ### Patch Changes
